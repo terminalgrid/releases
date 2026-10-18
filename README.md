@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Attikaaaa/terminalgrid-releases/releases/latest"><b>Download</b></a>
+  <a href="https://github.com/terminalgrid/releases/releases/latest"><b>Download</b></a>
 </p>
 
 ---
