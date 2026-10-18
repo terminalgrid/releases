@@ -1,12 +1,7 @@
 # TerminalGrid
 
-Tiled terminal manager with built-in AI agents.
+Tiled terminal manager with built-in AI agents, for Windows and macOS.
 
-**[Download the latest release](https://github.com/Attikaaaa/terminalgrid-releases/releases/latest)**
+Download the latest version from [Releases](https://github.com/Attikaaaa/terminalgrid-releases/releases/latest). On Windows, use the setup `.exe` (or the portable `.zip`). On macOS, use the `.dmg`.
 
-| Platform | Package |
-|---|---|
-| Windows (x64) | `TerminalGrid_<version>_x64-setup.exe` or portable `.zip` |
-| macOS (Apple Silicon, Intel) | `TerminalGrid_<version>_universal.dmg` |
-
-Updates install from inside the app: **Settings > About > Check for updates**. Every update is signature-verified.
+The app updates itself. You can also check manually under Settings > About.
