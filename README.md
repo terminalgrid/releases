@@ -1,19 +1,5 @@
-<p align="center">
-  <img src=".github/logo.png" width="96" alt="TerminalGrid">
-</p>
+<img src=".github/banner.png" alt="TerminalGrid">
 
-<h1 align="center">TerminalGrid</h1>
-
-<p align="center">
-  Tiled terminal manager with built-in AI agents, for Windows and macOS.
-</p>
-
-<p align="center">
-  <a href="https://github.com/terminalgrid/releases/releases/latest"><b>Download</b></a>
-</p>
-
----
-
-On Windows, use the setup `.exe` (or the portable `.zip`). On macOS, use the `.dmg`.
+Download the latest version from [Releases](https://github.com/terminalgrid/releases/releases/latest). On Windows, use the setup `.exe` (or the portable `.zip`). On macOS, use the `.dmg`.
 
 The app updates itself. You can also check manually under Settings > About.
